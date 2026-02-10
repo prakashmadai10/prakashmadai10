@@ -1,7 +1,7 @@
 # Hi, I’m Prakash Madai 👋
 
 🌍 **GIS Analyst | GIS Administrator | Data Analyst/Engineer**  
-📍 ArcGIS Enterprise • Spatial Analytics • Python • SQL • Cloud
+📍 ArcGIS Ecosystem • Spatial Analytics • Python • SQL
 
 I specialize in **enterprise GIS systems, geospatial automation, and data analytics** with hands-on experience supporting local government operations, infrastructure data, and decision-support dashboards.
 
@@ -30,17 +30,5 @@ I specialize in **enterprise GIS systems, geospatial automation, and data analyt
 
 ➡️ **Full portfolio:**  
 🔗 https://prakashmadai10.github.io
-
----
-
-## 📜 Certifications
-- Esri ArcGIS Pro Foundation (2025)
-- Esri ArcGIS Enterprise Administration
-- CompTIA Data+
-- Microsoft Fabric Analytics Engineer Associate
-- Lean Six Sigma Green Belt
-
----
 ## 📫 Connect
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link-here
----
+- 💼 **LinkedIn:** https://www.linkedin.com/in/prakashmadai10
