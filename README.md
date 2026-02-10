@@ -1,21 +1,11 @@
 # Hi, I’m Prakash Madai 👋
 
-🌍 **GIS Analyst | GIS Administrator | Data Engineer**  
+🌍 **GIS Analyst | GIS Administrator | Data Analyst/Engineer**  
 📍 ArcGIS Enterprise • Spatial Analytics • Python • SQL • Cloud
 
 I specialize in **enterprise GIS systems, geospatial automation, and data analytics** with hands-on experience supporting local government operations, infrastructure data, and decision-support dashboards.
 
 ---
-
-## 🔹 What I Do
-- 🗺️ Design, administer, and automate **ArcGIS Enterprise & ArcGIS Online**
-- ⚙️ Build **Python-based GIS automation** (ETL, QA/QC, audits, backups)
-- 📊 Develop **spatial dashboards & BI analytics** for operational insights
-- ☁️ Work with **cloud & data platforms** (AWS, SQL Server, Fabric)
-- 🧩 Integrate GIS with **APIs, databases, and real-time systems**
-
----
-
 ## 🛠️ Core Skills
 **GIS & Spatial**
 - ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online  
@@ -51,10 +41,6 @@ I specialize in **enterprise GIS systems, geospatial automation, and data analyt
 - Lean Six Sigma Green Belt
 
 ---
-
 ## 📫 Connect
 - 💼 **LinkedIn:** https://www.linkedin.com/in/your-link-here
-
-
-
 ---
