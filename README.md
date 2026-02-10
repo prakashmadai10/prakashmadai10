@@ -5,6 +5,11 @@
 
 I specialize in **enterprise GIS systems, geospatial automation, and data analytics** with hands-on experience supporting local government operations, infrastructure data, and decision-support dashboards.
 
+➡️ **Full portfolio:**  
+🔗 https://prakashmadai10.github.io
+## 📫 Connect
+💼 **LinkedIn:** https://www.linkedin.com/in/prakashmadai10
+
 ---
 ## 🛠️ Core Skills
 **GIS & Spatial**
@@ -27,8 +32,3 @@ I specialize in **enterprise GIS systems, geospatial automation, and data analyt
 - 🔄 **Hosted Feature Layer Backup & FGDB Cleanup**
 - 📡 **Real-Time Geospatial Analytics & Visualization**
 - 🏗️ **Zoning & Infrastructure Dashboards**
-
-➡️ **Full portfolio:**  
-🔗 https://prakashmadai10.github.io
-## 📫 Connect
-- 💼 **LinkedIn:** https://www.linkedin.com/in/prakashmadai10
