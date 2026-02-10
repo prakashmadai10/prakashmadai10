@@ -24,11 +24,3 @@ I specialize in **enterprise GIS systems, geospatial automation, and data analyt
 **Platforms**
 - SQL Server, AWS, Microsoft Fabric  
 - Dashboards, BI, Automation Pipelines  
-
----
-
-## 🚀 Featured Work
-- 🧠 **ArcGIS Online & Enterprise Auditing Automation**
-- 🔄 **Hosted Feature Layer Backup & FGDB Cleanup**
-- 📡 **Real-Time Geospatial Analytics & Visualization**
-- 🏗️ **Zoning & Infrastructure Dashboards**
